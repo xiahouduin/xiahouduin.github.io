@@ -12,3 +12,8 @@ p {
   font-size: 12px;
   color: green;
 }
+
+.mydiv {
+  height: 100px;
+  width: 100px;
+}
