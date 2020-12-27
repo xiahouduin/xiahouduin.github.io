@@ -1,7 +1,6 @@
 body {
   background-color: black;
   color: white;
-  font-size: 12px;
   
 }
 
@@ -9,4 +8,8 @@ h1 {
   color: white;
   font-size: 20px;
   
+}
+
+p {
+  font-size: 12px;
 }
