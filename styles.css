@@ -14,7 +14,7 @@ p {
 }
 
 .mydiv {
-  position: absolute;
+  position: static;
   height: 100px;
   width: 100px;
   border-style: dotted;
