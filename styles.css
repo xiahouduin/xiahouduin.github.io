@@ -19,3 +19,9 @@ p {
   border-style: dotted;
   border-width: 2px;
 }
+
+.index-bg {
+  background: url(images/grey-smooth-brus.jpg) repeat center;
+ 
+.second-bg {
+  background: url(images/264448.jpg) repeat center;
