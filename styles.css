@@ -20,10 +20,10 @@ p {
   border-width: 2px;
 }
 
-html.index-bg {
+body.index-bg {
   background: url(images/grey-smooth-brus.jpg) repeat center;
 }
  
-html.second-bg {
+body.second-bg {
   background: url(images/264448.jpg) repeat center;
 }
