@@ -27,3 +27,7 @@ body.index-bg {
 body.second-bg {
   background: url(images/264448.jpg) repeat center;
 }
+
+h1 {
+  border: 3px solid red;
+}
