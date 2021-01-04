@@ -52,3 +52,7 @@ figcaption {
 h2 {
   text-align: center;
 }
+
+#nav-id {
+  background: brown;
+}
