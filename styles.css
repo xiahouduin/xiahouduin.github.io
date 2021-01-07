@@ -10,7 +10,8 @@ h1 {
   color: white;
   font-size: 20px;
   padding: 10px;
-  border: 5px solid gray;
+  border: 5px solid gray;  
+  text-align: center;
 }
 
 p {
@@ -36,8 +37,7 @@ body.second-bg {
 }
 
 h1 {
-  border: 1px solid red;
-  text-align: center;
+
 }
 
 img {
@@ -54,6 +54,7 @@ figcaption {
 
 h2 {
   text-align: center;
+  text-color: white;
 }
 
 #nav-id {
