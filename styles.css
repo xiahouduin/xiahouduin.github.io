@@ -36,10 +36,6 @@ body.second-bg {
   background: url(images/264448.jpg) repeat center;
 }
 
-h1 {
-
-}
-
 img {
   display: block;
   margin-left: auto;
@@ -64,6 +60,8 @@ h2 {
 .vertical-menu {
   width: 200px;
   float: left;
+  margin-right: 6px;
+  margin-bottom: 6px;
 }
 
 .vertical-menu a {
