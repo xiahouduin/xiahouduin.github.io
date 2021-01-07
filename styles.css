@@ -77,6 +77,6 @@ h2 {
 }
 
 .vertical-menu a.active {
-  background-color: light blue; 
+  background-color: #00FFFF; 
   color: white;
 }
