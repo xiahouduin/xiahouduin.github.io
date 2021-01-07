@@ -62,6 +62,7 @@ h2 {
 
 .vertical-menu {
   width: 200px;
+  float: left;
 }
 
 .vertical-menu a {
