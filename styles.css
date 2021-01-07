@@ -83,3 +83,7 @@ h6 {
   background-color: #00FFFF; 
   color: white;
 }
+
+section [
+  margin: 0 auto;
+}
