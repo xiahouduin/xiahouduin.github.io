@@ -51,7 +51,6 @@ figcaption {
 h2 {
   text-align: center;
   text-color: white;
-  display: inline;
 }
 
 #nav-id {
@@ -71,6 +70,7 @@ h2 {
   display: block; 
   padding: 12px; 
   text-decoration: none; 
+  display: inline;
 }
 
 .vertical-menu a:hover {
