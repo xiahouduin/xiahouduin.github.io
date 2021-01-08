@@ -51,6 +51,7 @@ figcaption {
 h2 {
   text-align: center;
   text-color: white;
+  display: inline;
 }
 
 #nav-id {
